@@ -1,14 +1,10 @@
-### App: Hello Loni
+### Hello Loni
 
-### App Description: 
-`TODO://` Add app description
+### This app is a product of my first time working and playing around with Android Studios. As of right now, this app can change the text color by clicking the button. I plan on building on this app further by working to add the additional optional features.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/lonitra/Facebook-University-2019/blob/master/Android%20Pre-Work/PreApp%20-%20Required%20User%20Story.gif?raw=true" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories:
 - [x] 1. User sees custom text in a label - Hello from {name}!
