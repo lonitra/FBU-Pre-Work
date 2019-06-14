@@ -1,7 +1,7 @@
 ### Hello Loni
 
 ### App Description
-This app is a product of my first time working and playing around with Android Studios. As of right now, this app can change the text color by clicking the button. I plan on building on this app further by working to add the additional optional features.
+This app is a product of my first time working and playing around with Android Studios. This app can change the color of the background, change the text color, and change the text itself to what the user inputs.
 
 ### App Walk-through
 
