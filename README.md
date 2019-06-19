@@ -5,7 +5,11 @@ This app is a product of my first time working and playing around with Android S
 
 ### App Walk-through
 
-<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/Android%20Pre-Work/PreApp%20-%20Required%20User%20Story.gif?raw=true" width=200> <img src="https://github.com/lonitra/Facebook-University-2019/blob/master/Android%20Pre-Work/PreApp%20-%20Extra%20Features%20(1).gif?raw=true" width=200> <img src="https://github.com/lonitra/Facebook-University-2019/blob/master/Android%20Pre-Work/PreApp%20-%20Extra%20Features%20(2).gif?raw=true" width=200><br>
+<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/required-story.gif" width=200> 
+
+<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/extra-features-first.gif" width=200> 
+
+<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/extra-features-second.gif" width=200><br>
 
 ### Required User Stories:
 - [x] 1. User sees custom text in a label - Hello from {name}!
