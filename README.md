@@ -1,13 +1,13 @@
 ### Hello Loni
 
 ### App Description
-This app is a product of my first time working and playing around with Android Studios. This app can change the color of the background, change the text color, and change the text itself to what the user inputs.
+Hello!
 
 ### App Walk-through
 
-<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/required-story.gif" width=200> 
+<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/required-story.gif" width=200>
 
-<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/extra-features-first.gif" width=200> 
+<img src="https://github.com/lonitra/Facebook-University-2019/blob/master/extra-features-first.gif" width=200>
 
 <img src="https://github.com/lonitra/Facebook-University-2019/blob/master/extra-features-second.gif" width=200><br>
 
